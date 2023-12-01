@@ -33,7 +33,7 @@
 ?>
 
 <div id="main-banner">
-        <a href="#"><img src="layout/image/anh1giamgia.webp" width="1475px" height="563px"></a>
+        <a href="#"><img src="layout/image/banner1.jpg" width="1475px" height="563px"></a>
     </div>
     <div id="main-gioithieu">
         <div class="main-itemgioithieu">
