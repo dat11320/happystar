@@ -4,7 +4,7 @@
         extract($sp);
         $html_dssp_new.='<div class="box25 mr15">
                             <div class="best"></div>
-                            <img style="height:200px; margin-top:30px;" src="layout/image/'.$img.'" alt="">
+                             <a href="index.php?pg=chitietsanpham"><img style="height:200px; margin-top:30px;" src="layout/image/'.$img.'" alt=""></a>                           
                             <h3 style="margin: 8px 0;">'.$name.'</h3>
                             <div class="info-product">
                                 <div>
